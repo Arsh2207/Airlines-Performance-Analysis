@@ -68,4 +68,6 @@ EDA involved exploring the customer data to get Key Performance Indicators (KPIs
 
 
 ### Power BI Dashboard and Flight Search Page
+<img width="746" alt="Screenshot 2024-06-25 181359" src="https://github.com/user-attachments/assets/2fbbb0ff-0baf-4b98-b2c9-eb1e4971568e">
+
 
