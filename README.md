@@ -71,3 +71,6 @@ EDA involved exploring the customer data to get Key Performance Indicators (KPIs
 <img width="746" alt="Screenshot 2024-06-25 181359" src="https://github.com/user-attachments/assets/2fbbb0ff-0baf-4b98-b2c9-eb1e4971568e">
 
 
+<img width="677" alt="Screenshot 2024-06-25 181602" src="https://github.com/user-attachments/assets/f1e04d27-0b93-4a1d-a716-116e2e428f58">
+
+
